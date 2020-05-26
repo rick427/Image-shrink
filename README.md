@@ -13,7 +13,7 @@ Image shrink is a cross platform desktop application that reduces the size of up
 Accepted images formats include; JPEG and PNG only.
 
 #### Demo The App ? ####
-To launch a production demo of the app navigate to this folder from the root: *release-builds/ImageShrink-win32-ia32/ImageShrink.exe*
+To launch a production demo, download the release-builds folder of the app and navigate to: *release-builds/ImageShrink-win32-ia32/ImageShrink.exe*
 
 ***
 
